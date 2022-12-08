@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexander-pick
+- 👋 Hi, I’m Alex (aka. alx,alxhh,API...)
 - 👀 I’m interested in security, obscure programming and low level hardware pwning
 - 💞️ I’m looking to collaborate on funky codebases
 - 📫 You can contact me via twitter at `@alexander_pick` or at mastodon via `@alxhh@infosec.exchange`
